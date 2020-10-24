@@ -1,6 +1,3 @@
-import { AccordionActions } from "@material-ui/core";
-import { Filter } from "@material-ui/icons";
-
 export const initialState = {
     basket: [],
 };
