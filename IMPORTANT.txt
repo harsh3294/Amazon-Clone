@@ -1,3 +1,6 @@
 cd to the functions and run the command to run the backend function
 
 firebase emulators:start
+
+to activate the cloud function through server first run firebase deploy --only functio 
+then change the axios file copy the url 
