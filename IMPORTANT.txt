@@ -1,4 +1,4 @@
-cd to the functions and run the command to run the backend function
+    cd to the functions and run the command to run the backend function
 
 firebase emulators:start
 
